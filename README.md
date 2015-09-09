@@ -1,2 +1,2 @@
 # domains
-Metadata Objects used within other repositories - Library Project
+Metadata objects used within other repositories - library project
